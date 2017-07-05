@@ -1,0 +1,35 @@
+/*
+    Colors
+    From "honey pot" colour scheme - https://color.adobe.com/Honey-Pot-color-theme-1490158/
+    #105B63
+    #FFFAD5
+    #FFD34E
+    #DB9E36
+    #BD4932
+*/
+
+/* All our sweet stuff */
+html, body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #FFFAD5;
+}
+
+.wrapper {
+    background-color: #ffffff;
+    border: 1px solid #DB9E36;
+    margin: 50px;
+    padding: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #105B63;
+}
+
+a, a:link, a:active, a:visited, a:hover {
+    color: #BD4932;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
