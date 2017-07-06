@@ -21,14 +21,6 @@
   </section>
 
   <script src="./webcomponents-hi.js"></script>
-  <script>
-    window.addEventListener("HTMLImportsLoaded", function(e) {
-      var template = document.getElementById("nav_template");
-
-      var target = document.getElementById('nav_target');
-
-      target.appendChild(template.import.cloneNode(true));
-    });
-  </script>
+  <script src="./nav-import.js"></script>
 </body>
 </html>
