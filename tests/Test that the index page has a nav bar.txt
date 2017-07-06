@@ -1,0 +1,3 @@
+Go to the index page
+There is a nav bar that includes a link to Home
+Clicking the link to Home will take you to the index page (that you're already on)
