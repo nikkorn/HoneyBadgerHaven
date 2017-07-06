@@ -62,3 +62,23 @@ a, a:active, a:visited, a:hover {
     color: #BD4932;
     text-decoration: underline;
 }
+
+.upload-link {
+    color: #FFFFFF;
+    background-color: #105B63;
+    padding: 5px 10px;
+}
+
+.image-thumbnail {
+    width: 200px; 
+    margin: 10px;  
+}
+
+.image-large {
+    width: 500px; 
+    margin: 10px;  
+}
+
+.image-caption {
+    
+}
