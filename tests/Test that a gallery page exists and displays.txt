@@ -1,0 +1,3 @@
+Open the website
+Click on the gallery navigation bar link
+A gallery should open with some images
