@@ -13,8 +13,7 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: row;
-	background: url("images/badger-1.jpg") no-repeat;
-    background-size: 100%;
+     background-color: #FFFAD5;
 }
 
 section, nav {
