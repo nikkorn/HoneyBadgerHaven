@@ -1,0 +1,3 @@
+Go to the website
+Open the habitat link via the navbar
+You should see a page containing honey badger habitat information
