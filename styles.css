@@ -38,7 +38,7 @@ nav ul {
     padding: 0;
 }
 
-nav ul li a {
+nav ul li * {
     display: block;
     padding: 8px 50px;
     text-decoration: none;
