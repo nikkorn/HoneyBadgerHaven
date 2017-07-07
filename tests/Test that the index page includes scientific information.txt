@@ -1,0 +1,2 @@
+Go to the index page
+There should be taxonomy information as well as a general description
