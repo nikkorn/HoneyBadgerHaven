@@ -13,7 +13,7 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: row;
-     background-color: #FFFAD5;
+    background-color: #FFFAD5;
 }
 
 section, nav {
@@ -30,6 +30,7 @@ section {
 nav {
     padding: 40px 0;
     flex: 0 0 auto;
+    margin-right: 0;
 }
 
 nav ul {
@@ -77,8 +78,4 @@ a, a:active, a:visited, a:hover {
 .image-large {
     width: 500px; 
     margin: 10px;  
-}
-
-.image-caption {
-    
 }
