@@ -1,0 +1,5 @@
+Open the website
+Click on the gallery navigation bar link
+A gallery should open with some images
+Click on each thumbnail
+After clicking on the thumbnail a page opens showing the larger image and a caption

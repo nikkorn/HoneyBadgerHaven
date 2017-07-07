@@ -1,5 +1,5 @@
 window.addEventListener("HTMLImportsLoaded", function(e) {
-    var template = document.getElementById("nav_template").querySelector("nav");
+    var template = document.getElementById("nav_template").import.querySelector("nav");
 
     var target = document.getElementById("nav_target");
 
